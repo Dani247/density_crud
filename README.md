@@ -18,12 +18,12 @@ You will need a PostgreSQL database running and a 'posts' table, here is the sch
 
 Please add a .env file inside ./backend folder with these varaibles to integrate your db
 
-DB_HOST=
-DB_PORT=
-DB_USER=
-DB_DATABASE=
-DB_PASSWORD=
-PORT=5001
+    DB_HOST=
+    DB_PORT=
+    DB_USER=
+    DB_DATABASE=
+    DB_PASSWORD=
+    PORT=5001
 
 go to `backend` folder and run 
 
